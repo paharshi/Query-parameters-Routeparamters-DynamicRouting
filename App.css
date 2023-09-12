@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  gap: 20px;
+  height: 60px;
+  align-items: center;
+  background-color: blue;
+  list-style-type: none;
+
+}
+
+.nav a {
+  color: #fff;
+
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+button {
+  margin: 10px;
+  outline: none;
+}
